@@ -1,7 +1,6 @@
 # Google Play Store Applications Analysis
 
-![proj_1](https://github.com/user-attachments/assets/9af88711-783f-4340-a0f0-55435f5d7a67)
-
+![Tableau Proj EDA](https://github.com/user-attachments/assets/18858d13-3b35-400d-912c-e307a4d8d3eb)
 
 ## Overview
 
