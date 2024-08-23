@@ -90,4 +90,13 @@ This project involved transforming an exploratory data analysis (EDA) of Google 
 
 This comprehensive analysis showcases the integration of Python for data preparation and Tableau for visualization, resulting in a powerful tool for understanding and analyzing Google Play Store applications. The dashboards provide valuable insights into app performance, user feedback, and revenue trends.
 
- ***Tableau Public Link : https://public.tableau.com/views/CapstoneProject_17085014803510/PlayStoreViZualisation?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link***
+## Author
+
+**Sahil Kishor**
+
+Email : kishorsahil555@gmail.com
+
+LinkedIn : www.linkedin.com/in/sahil-kishor
+
+ ***Tableau Public Link :*** 
+ ***https://public.tableau.com/views/CapstoneProject_17085014803510/PlayStoreViZualisation?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link***
