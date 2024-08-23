@@ -1,8 +1,11 @@
 # Google Play Store Applications Analysis
 
+![proj_1](https://github.com/user-attachments/assets/9af88711-783f-4340-a0f0-55435f5d7a67)
+
+
 ## Overview
 
-This project involved transforming an exploratory data analysis (EDA) of Google Play Store data, initially conducted using Python, into a dynamic and interactive visual dashboard using Tableau. The process included extensive data manipulation to clean and merge the 'Google Play Store Data' and 'User Review' datasets. The merged data was exported as a CSV file and imported into Tableau. Various charts and calculated fields were created in Tableau to enhance insights. The final dashboards are categorized into three main sections—**Applications Analysis**, **Sentiment Analysis**, and **Revenue Analysis**—providing comprehensive insights into different aspects of the Google Play Store apps.
+This project involved transforming an exploratory data analysis (EDA) of Google Play Store data, initially conducted using Python, into a dynamic and interactive visual dashboard using Tableau. The process included extensive data manipulation to clean and merge the 'Google Play Store Data' and 'User Review' datasets. The merged data was exported as a CSV file and imported into Tableau. Various charts and calculated fields were created in Tableau to enhance insights. The final dashboards are categorized into three main sections, **Applications Analysis**, **Sentiment Analysis** and **Revenue Analysis**, providing comprehensive insights into different aspects of the Google Play Store apps.
 
 ## Applications Analysis
 
